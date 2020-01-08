@@ -24,7 +24,7 @@ From the Azure Portal click on Create a Resource  > in the search box type Machi
 <h1 align="center">
     <a href="#" title="Create Azure ML Workspace">
     <img width=50% alt="" src="azureml-1.png"> </a>
-
+    <br>
 </h1>
 
 ### Setting up the training environment 
