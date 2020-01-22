@@ -53,5 +53,7 @@ To create the storage account log in to Azure Portal and click on Create a Resou
     <img width=50% alt="" src="storageacc-3.png"> </a>
     <br>
 </h1>
-
+<p>
+    Once you've created the Azure storage account, you need to create two Blob containers: <b>inferimages</b> and <b>results</b>.
+</p>
 
